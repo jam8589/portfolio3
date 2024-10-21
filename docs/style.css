@@ -1,0 +1,13 @@
+body {
+    background-color: #f39c12;
+    display: block;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1.4;
+    text-decoration: none;
+    /* WS:9/3/22: Overflow should exist so that page is accessible.*/
+    /*overflow-x: hidden;*/
+    margin: 0 auto 0 auto;
+    min-width: 340px;
+    max-width: 960px;
+}
